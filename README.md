@@ -24,6 +24,6 @@ Glad to see you here!
 
 Let's connect! 👯
 <br>
-[Email](anaijocelyn@gmail.com)
+Email: anaijocelyn@gmail.com
 <br>
 [LinkedIn](https://www.linkedin.com/in/anaiamylopez/)
