@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 😄 Pronouns: she/her
 
-Glad to see you here! 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 [![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anailopez&show_icons=true&theme=cobalt)](https://github.com/anailopez/github-readme-stats)
 
 Let's connect! 👯
